@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main()
+{
+    int n,i;
+    printf("Enter n : ");
+    scanf("%d",&n);
+    i=0;
+    while(i<n)
+    {
+        printf("Hello World\n");
+        i++;
+    }
+}
