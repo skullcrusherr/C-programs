@@ -2,7 +2,7 @@
 int main()
 {
     int u;
-    float a;
+    float a=0;
     printf("Enter units used : ");
     scanf("%d",&u);
     if(u>=0 && u<=50)
