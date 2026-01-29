@@ -14,4 +14,5 @@ int main()
     {
         printf("a is a consonant");
     }
+    return 0;
 }
